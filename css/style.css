@@ -1,0 +1,37 @@
+
+header {background-image: url(../img/Fondo.jpeg);
+        background-size:cover;
+        line-height: 160px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+.alineacion-titulo{text-align: left;}
+
+.alineacion-img{float:right;}
+
+nav {background-color: beige;
+     line-height: 40px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     text-transform: uppercase;
+     font-weight: bold }
+
+
+li span { font-weight: bold;
+        font-size: 15px;
+        font-style:italic;}
+
+.cursiva{font-style:italic;}
+
+
+footer {text-align: center;
+        color:black;
+        background-image: url(../img/Fondo.jpeg);
+        line-height: 40px}
+
+
+h2 {text-transform: uppercase;
+     color: black;
+     background-color: beige;
+     line-height: 30px;
+     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+
+body {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
